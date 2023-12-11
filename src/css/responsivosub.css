@@ -1,0 +1,1719 @@
+@media screen and (max-width: 1600px) and (min-width: 1440px){
+     *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        outline: 0;
+       }
+  
+      .logo{
+        margin-left: 2%;
+       }
+ 
+      .logotxt{
+        font-size: 27px;
+       }
+     
+      .links{
+          gap: 20%;
+       }
+
+      .link.contato{
+        font-size: 15px;
+      }
+
+      .sessao.texto{
+         font-size: 16px;
+       }
+
+      .CTA.button{
+        height: 50px;
+        width: 150px
+       }
+}
+
+@media screen and (max-width: 1439px) and (min-width: 1367px){
+       *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        outline: 0;
+        }
+  
+      .logo{
+        margin-left: 2%;
+        }
+
+      .logotxt{
+        font-size: 27px;
+        }
+     
+      .links{
+          gap: 20%;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+
+      .sessao.texto{
+         font-size: 16px;
+        }
+
+      .CTA.button{
+        height: 50px;
+        width: 150px
+        }
+}
+
+@media screen and (max-width: 1366px) and (min-width: 1280px){
+    
+  
+       .logo{
+        margin-left: 2%;
+        }
+
+       .logoimg{
+         width: 70px;
+         height: 40px;
+       }
+
+      .logotxt{
+        font-size: 25px;
+        }
+     
+      .links{
+          gap: 18%;
+        }
+      
+        .link{
+            font-size: 15px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .img-container{
+            margin-top: 40px;
+        }
+
+       .sessao.texto{
+         font-size: 16px;
+        }
+
+       .CTA.button{
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 1279px) and (min-width: 1231px){
+       .logo{
+        margin-left: 2%;
+        }
+
+       .logoimg{
+         width: 70px;
+         height: 40px;
+       }
+
+      .logotxt{
+        font-size: 23px;
+        }
+     
+      .links{
+          gap: 18%;
+        }
+      
+        .link{
+            font-size: 15px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+       .sessao.texto{
+         font-size: 16px;
+        }
+
+       .CTA.button{
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 1230px) and (min-width: 1081px){
+    .logo{
+        margin-left: 10px;
+        }
+
+       .logoimg{
+         width: 87px;
+         height: 57px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:50vw;
+         margin-left: 6%;
+         gap: 18%;
+        }
+      
+        .link{
+            font-size: 15px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .redes{
+            margin-left: 10%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            width: 450px;
+            height: 450px;
+        }
+
+       .sessao.texto{
+         font-size: 16px;
+         width: 450px
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 1080px) and (min-width: 900px){
+       .logo{
+        margin-left: 7px;
+        }
+
+       .logoimg{
+         width: 87px;
+         height: 57px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:55vw;
+         margin-left: 4%;
+         gap: 18%;
+        }
+      
+        .link{
+         font-size: 15px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .redes{
+            margin-left: 8%;
+        }
+
+        .insta img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .whats img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .sessao.sobre{
+            margin-left: 21vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 7%;
+            width: 450px;
+            height: 450px;
+        }
+
+        .foto{
+            margin-top: 154px;
+            display: block;
+            position: absolute;
+        }
+
+       .sessao.texto{
+         font-size: 16px;
+         width: 450px;
+         gap: 500px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 899px) and (min-width: 885px){
+    .logo{
+        margin-left: 7px;
+        }
+
+       .logoimg{
+         width: 87px;
+         height: 57px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:55vw;
+         margin-left: 4%;
+         gap: 18%;
+        }
+      
+        .link{
+         font-size: 15px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .redes{
+            margin-left: 8%;
+        }
+
+        .insta img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .whats img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .sessao.sobre{
+            margin-left: 21vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 7%;
+            width: 450px;
+            height: 450px;
+        }
+
+        .foto{
+            margin-top: 154px;
+            display: block;
+            position: absolute;
+        }
+
+       .sessao.texto{
+         font-size: 16px;
+         width: 450px;
+         gap: 500px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 884px) and (min-width: 800px){
+       .logo{
+        margin-left: 7px;
+        }
+
+       .logoimg{
+         width: 80px;
+         height: 50px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:60vw;
+         margin-left: 5px;
+         gap: 18%;
+        }
+      
+        .link{
+         font-size: 14px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .redes{
+            margin-left: 6%;
+        }
+
+        .insta img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .whats img{
+            width: 45px;
+            height: 45px;
+        }
+
+        .sessao.sobre{
+            margin-left: 21vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            display: block;
+            position: absolute;
+            margin-top: 7%;
+            width: 450px;
+            height: 450px;
+        }
+
+        .foto{
+            margin-top: 154px;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 12%;
+        }
+
+        .call.to.action{
+          width: 600px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 799px) and (min-width: 769px){
+       .logo{
+        margin-left: 3px;
+        }
+
+       .logoimg{
+         width: 80px;
+         height: 50px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:60vw;
+         margin-left: 1px;
+         gap: 16%;
+        }
+      
+        .link{
+         font-size: 14px;
+        }
+
+       .link.contato{
+        font-size: 14px;
+        }
+
+        .redes{
+            margin-left: 4%;
+        }
+
+        .insta img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .whats img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .sessao.sobre{
+            margin-left: 18vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+          display: block;
+          position: absolute;
+            margin-top: 7%;
+            width: 450px;
+            height: 450px;
+        }
+
+        .foto{
+            margin-top: 154px;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 12%;
+        }
+
+        .call.to.action{
+          width: 600px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 768px) and (min-width: 615px){
+    .logo{
+        margin-left: 7px;
+        }
+
+       .logoimg{
+         width: 80px;
+         height: 50px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:60vw;
+         margin-left: 3px;
+         gap: 16%;
+        }
+      
+        .link{
+         font-size: 13px;
+        }
+
+       .link.contato{
+        font-size: 13px;
+        }
+
+        .redes{
+            margin-left: 4%;
+        }
+
+        .insta img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .whats img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .titulo.sobre{
+            font-size: 18px;
+        }
+
+        .sessao.sobre{
+            margin-left: 10vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 10%;
+            width: 420px;
+            height: 420px;
+        }
+
+        .foto{
+            display: block;
+            position: absolute;
+            margin-top: 154px;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 1%;
+        }
+
+        .call.to.action{
+          width: 600px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 614px) and (min-width: 601px){
+    .logo{
+        margin-left: 7px;
+        }
+
+       .logoimg{
+         width: 80px;
+         height: 50px;
+       }
+
+      .logotxt{
+        display: none;
+        }
+     
+      .links{
+         width:60vw;
+         margin-left: 3px;
+         gap: 10%;
+        }
+      
+        .link{
+         font-size: 13px;
+        }
+
+       .link.contato{
+        font-size: 13px;
+        }
+
+        .redes{
+            margin-left: 4%;
+        }
+
+        .insta img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .whats img{
+            width: 40px;
+            height: 40px;
+        }
+
+        .titulo.sobre{
+            font-size: 18px;
+        }
+
+        .sessao.sobre{
+            margin-left: 10vw;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 10%;
+            width: 420px;
+            height: 420px;
+        }
+
+        .foto{
+          display: block;
+          position: absolute;
+            margin-top: 154px;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 3%;
+        }
+
+        .call.to.action{
+          width: 550px;
+        }
+
+        .CTA.text{
+          font-size: small;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+}
+
+@media screen and (max-width: 600px) and (min-width: 500px){
+    header{
+        justify-content: center;
+     }
+  
+     .menu-section{
+        transition: color, 0.3s ease;
+     }
+  
+     .logo{
+        order: 2;
+        width: 280px;
+        margin-left: 60px;
+     }
+      
+     .logoimg{
+        height: 37px;
+        width: 57px;
+     }
+      
+     .logotxt{
+        font-size: 18px;
+        display: inline;
+        color: #1E6838;
+     }
+  
+     .one,.two,.three{
+        background-color: #ffffff;
+        height: 5px;
+        width: 90%;
+        margin: 6px auto;
+        transition: 0.3s;
+     }
+  
+     .menu-toggle{
+        order: 1;
+        width: 11%;
+        height: 50px;
+        margin-top: 3%;
+        margin-left: 2%;
+        margin-bottom: 3%;
+        padding: 2px;
+        background-color: #286240;
+        border-radius: 0 11px 0 11px;
+     }
+  
+     .links{
+        display: none;
+     }
+  
+     .menu-section.on{
+        position: absolute;
+        top: 0;
+        width: 95vw;
+        height: 95vh;
+        border-radius: 15px;
+        z-index:10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #286240;
+     }
+  
+     .menu-section.on nav{
+        display: block;
+        margin-left: 150px;
+        margin-top: 200px;
+        margin-bottom: 600px;
+     }
+  
+     .link{
+        text-align: center;
+        font-size: 20px;
+        transition: 0.5s;
+        line-height: 4rem;
+        padding: 0;
+     }
+  
+     .link.contato{
+        margin-left: 18px;
+        font-size: 19px;
+     }
+  
+     .menu-section.on .menu-toggle{
+        position:absolute;
+        left: 10px;
+        top: 10px;
+     }
+  
+     .menu-section.on .menu-toggle .one{
+        transform: rotate(45deg) translate(7px,7px);
+     }
+  
+     .menu-section.on .menu-toggle .two{
+        opacity:0;
+     }
+  
+     .menu-section.on .menu-toggle .three{
+        transform: rotate(-45deg) translate(8px,-9px);
+     }
+  
+     .menu-section.on .logo{
+        display: none;
+     }
+  
+     .redes{
+        order: 3;
+        margin-left: 10%;
+        gap: 3%;
+     }
+  
+     .insta img{
+        width: 40px;
+        height: 40px;
+    }
+  
+    .whats img{
+     width: 40px;
+     height: 40px;
+
+    }
+     
+        .titulo.sobre{
+            font-size: 18px;
+        }
+
+        .sessao.sobre{
+            margin-left: 3px;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 10%;
+            width: 420px;
+            height: 420px;
+        }
+
+        .foto{
+            width: 370px;
+            height: 370px;
+            margin-top: 154px;
+            display: block;
+            position: absolute;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 4%;
+        }
+
+        .call.to.action{
+          width: 450px;
+        }
+
+        .CTA.text{
+          font-size: 12px;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+
+        footer{
+            font-size: 14px;
+        }
+
+        .local img{
+            width: 20px;
+            height: 20px; 
+        }
+
+        .ig img{
+            width: 15px;
+            height: 15px; 
+        }
+        
+        
+}
+
+@media screen and (max-width: 499px) and (min-width: 480px){
+    header{
+        justify-content: center;
+     }
+  
+     .menu-section{
+        transition: color, 0.3s ease;
+     }
+  
+     .logo{
+        order: 2;
+        width: 280px;
+        margin-left: 60px;
+     }
+      
+     .logoimg{
+        height: 37px;
+        width: 57px;
+     }
+      
+     .logotxt{
+        font-size: 18px;
+        display: inline;
+        color: #1E6838;
+     }
+  
+     .one,.two,.three{
+        background-color: #ffffff;
+        height: 5px;
+        width: 90%;
+        margin: 6px auto;
+        transition: 0.3s;
+     }
+  
+     .menu-toggle{
+        order: 1;
+        width: 11%;
+        height: 50px;
+        margin-top: 3%;
+        margin-left: 2%;
+        margin-bottom: 3%;
+        padding: 2px;
+        background-color: #286240;
+        border-radius: 0 11px 0 11px;
+     }
+  
+     .links{
+        display: none;
+     }
+  
+     .menu-section.on{
+        position: absolute;
+        top: 0;
+        width: 95vw;
+        height: 95vh;
+        border-radius: 15px;
+        z-index:10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #286240;
+     }
+  
+     .menu-section.on nav{
+        display: block;
+        margin-left: 150px;
+        margin-top: 200px;
+        margin-bottom: 600px;
+     }
+  
+     .link{
+        text-align: center;
+        font-size: 20px;
+        transition: 0.5s;
+        line-height: 4rem;
+        padding: 0;
+     }
+  
+     .link.contato{
+        margin-left: 18px;
+        font-size: 19px;
+     }
+  
+     .menu-section.on .menu-toggle{
+        position:absolute;
+        left: 10px;
+        top: 10px;
+     }
+  
+     .menu-section.on .menu-toggle .one{
+        transform: rotate(45deg) translate(7px,7px);
+     }
+  
+     .menu-section.on .menu-toggle .two{
+        opacity:0;
+     }
+  
+     .menu-section.on .menu-toggle .three{
+        transform: rotate(-45deg) translate(8px,-9px);
+     }
+  
+     .menu-section.on .logo{
+        display: none;
+     }
+  
+     .redes{
+        order: 3;
+        margin-left: 10%;
+        gap: 3%;
+     }
+  
+     .insta img{
+        width: 40px;
+        height: 40px;
+    }
+  
+    .whats img{
+     width: 40px;
+     height: 40px;
+
+    }
+     
+        .titulo.sobre{
+            font-size: 18px;
+        }
+
+        .sessao.sobre{
+            margin-left: 3px;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 5%;
+        }
+
+        .img-container{
+            margin-top: 60px;
+        }
+
+        .imagem{
+            margin-top: 10%;
+            width: 420px;
+            height: 420px;
+        }
+
+        .foto{
+            width: 370px;
+            height: 370px;
+            margin-top: 154px;
+            display: block;
+            position: absolute;
+        }
+
+        .sessao.texto{
+          font-size: 16px;
+          width: 450px;
+          gap: 500px;
+        }
+
+        .CTA.section{
+            margin-left: 4%;
+        }
+
+        .call.to.action{
+          width: 450px;
+        }
+
+        .CTA.text{
+          font-size: 12px;
+        }
+
+       .CTA.button{
+         font-size: 14px;
+         height: 50px;
+         width: 150px
+        }
+
+        footer{
+            font-size: 14px;
+        }
+
+        .local img{
+            width: 20px;
+            height: 20px; 
+        }
+
+        .ig img{
+            width: 15px;
+            height: 15px; 
+        }
+}
+
+@media screen and (max-width: 479px) and (min-width: 400px){
+    header{
+        justify-content: center;
+     }
+  
+     .menu-section{
+        transition: color, 0.3s ease;
+     }
+  
+     .logo{
+        order: 2;
+        width: 250px;
+        margin-left: 60px;
+     }
+      
+     .logoimg{
+        height: 30px;
+        width: 50px;
+     }
+      
+     .logotxt{
+        font-size: 15px;
+        display: inline;
+        color: #1E6838;
+     }
+  
+     .one,.two,.three{
+        background-color: #ffffff;
+        height: 5px;
+        width: 90%;
+        margin: 6px auto;
+        transition: 0.3s;
+     }
+  
+     .menu-toggle{
+        order: 1;
+        width: 12%;
+        height: 37px;
+        margin-top: 3%;
+        margin-left: 3px;
+        margin-bottom: 3%;
+        padding: 2px;
+        background-color: #286240;
+        border-radius: 0 11px 0 11px;
+     }
+  
+     .links{
+        display: none;
+     }
+  
+     .menu-section.on{
+        position: absolute;
+        top: 0;
+        width: 95vw;
+        height: 95vh;
+        border-radius: 15px;
+        z-index:10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #286240;
+     }
+  
+     .menu-section.on nav{
+        display: block;
+        margin-left: 100px;
+        margin-top: 200px;
+        margin-bottom: 600px;
+     }
+  
+     .link{
+        text-align: center;
+        font-size: 15px;
+        transition: 0.5s;
+        line-height: 4rem;
+        padding: 0;
+     }
+  
+     .link.contato{
+        margin-left: 10px;
+        font-size: 16px;
+     }
+  
+     .menu-section.on .menu-toggle{
+        position:absolute;
+        left: 10px;
+        top: 10px;
+     }
+  
+     .menu-section.on .menu-toggle .one{
+        transform: rotate(45deg) translate(7px,7px);
+     }
+  
+     .menu-section.on .menu-toggle .two{
+        opacity:0;
+     }
+  
+     .menu-section.on .menu-toggle .three{
+        transform: rotate(-45deg) translate(8px,-9px);
+     }
+  
+     .menu-section.on .logo{
+        display: none;
+     }
+  
+     .redes{
+        order: 3;
+        margin-right: 1%;
+        margin-left: 8%;
+        gap: 3%;
+     }
+  
+     .insta img{
+        width: 35px;
+        height: 35px;
+    }
+  
+    .whats img{
+     width: 35px;
+     height: 35px;
+
+    }
+     
+        .titulo.sobre{
+            font-size: 18px;
+        }
+
+        .sessao.sobre{
+            margin-left: 1px;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+            padding: 0;
+        }
+
+        .img-container{
+            margin-top: 30px;
+        }
+
+        .imagem{
+            margin-left: 3%;
+            margin-top: 13%;
+            width: 370px;
+            height: 370px;
+        }
+
+        .foto{
+            width: 370px;
+            height: 370px;
+            margin-top: 154px;
+            display: block;
+            position: absolute;
+        }
+
+        .sessao.texto{
+          font-size: 14px;
+          width: 380px;
+          gap: 420px;
+        }
+
+        .CTA.section{
+            margin-left: 10px;
+        }
+
+        .call.to.action{
+          width: 370px;
+        }
+
+        .CTA.text{
+          font-size: 12px;
+        }
+
+       .CTA.button{
+         margin-top: 6%;
+         font-size: 12px;
+         height: 30px;
+         width: 150px
+        }
+
+        footer{
+            font-size: 12px;
+        }
+
+        .local img{
+            width: 20px;
+            height: 20px; 
+        }
+
+        .ig img{
+            width: 15px;
+            height: 15px; 
+        }
+}
+
+@media screen and (max-width: 399px) and (min-width: 394px){
+  header{
+    justify-content: center;
+ }
+
+ .menu-section{
+    transition: color, 0.3s ease;
+ }
+
+ .logo{
+    order: 2;
+    width: 250px;
+    margin-left: 60px;
+ }
+  
+ .logoimg{
+    height: 30px;
+    width: 50px;
+ }
+  
+ .logotxt{
+    font-size: 15px;
+    display: inline;
+    color: #1E6838;
+ }
+
+ .one,.two,.three{
+    background-color: #ffffff;
+    height: 5px;
+    width: 90%;
+    margin: 6px auto;
+    transition: 0.3s;
+ }
+
+ .menu-toggle{
+    order: 1;
+    width: 12%;
+    height: 37px;
+    margin-top: 3%;
+    margin-left: 3px;
+    margin-bottom: 3%;
+    padding: 2px;
+    background-color: #286240;
+    border-radius: 0 11px 0 11px;
+ }
+
+ .links{
+    display: none;
+ }
+
+ .menu-section.on{
+    position: absolute;
+    top: 0;
+    width: 95vw;
+    height: 95vh;
+    border-radius: 15px;
+    z-index:10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #286240;
+ }
+
+ .menu-section.on nav{
+    display: block;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 600px;
+ }
+
+ .link{
+    text-align: center;
+    font-size: 15px;
+    transition: 0.5s;
+    line-height: 4rem;
+    padding: 0;
+ }
+
+ .link.contato{
+    margin-left: 10px;
+    font-size: 16px;
+ }
+
+ .menu-section.on .menu-toggle{
+    position:absolute;
+    left: 10px;
+    top: 10px;
+ }
+
+ .menu-section.on .menu-toggle .one{
+    transform: rotate(45deg) translate(7px,7px);
+ }
+
+ .menu-section.on .menu-toggle .two{
+    opacity:0;
+ }
+
+ .menu-section.on .menu-toggle .three{
+    transform: rotate(-45deg) translate(8px,-9px);
+ }
+
+ .menu-section.on .logo{
+    display: none;
+ }
+
+ .redes{
+    order: 3;
+    margin-right: 1%;
+    margin-left: 8%;
+    gap: 3%;
+ }
+
+ .insta img{
+    width: 35px;
+    height: 35px;
+}
+
+.whats img{
+ width: 35px;
+ height: 35px;
+
+}
+ 
+    .titulo.sobre{
+        font-size: 18px;
+    }
+
+    .sessao.sobre{
+        margin-left: 1px;
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        padding: 0;
+    }
+
+    .img-container{
+        margin-top: 30px;
+    }
+
+    .imagem{
+        margin-left: 3%;
+        margin-top: 13%;
+        width: 370px;
+        height: 370px;
+    }
+
+    .foto{
+        width: 370px;
+        height: 370px;
+        margin-top: 154px;
+        display: block;
+        position: absolute;
+    }
+
+    .sessao.texto{
+      font-size: 14px;
+      width: 380px;
+      gap: 420px;
+    }
+
+    .CTA.section{
+        margin-left: 10px;
+    }
+
+    .call.to.action{
+      width: 370px;
+    }
+
+    .CTA.text{
+      font-size: 12px;
+    }
+
+   .CTA.button{
+     margin-top: 6%;
+     font-size: 12px;
+     height: 30px;
+     width: 150px
+    }
+
+    footer{
+        font-size: 12px;
+    }
+
+    .local img{
+        width: 20px;
+        height: 20px; 
+    }
+
+    .ig img{
+        width: 15px;
+        height: 15px; 
+    }
+}
+
+@media screen and (max-width: 393px) and (min-width: 320px){
+  header{
+    justify-content: center;
+ }
+
+ .menu-section{
+    transition: color, 0.3s ease;
+ }
+
+ .logo{
+    order: 2;
+    width: 250px;
+    margin-left: 15px;
+ }
+  
+ .logoimg{
+    height: 30px;
+    width: 50px;
+ }
+  
+ .logotxt{
+    font-size: 15px;
+    display: inline;
+    color: #1E6838;
+ }
+
+ .one,.two,.three{
+    background-color: #ffffff;
+    height: 5px;
+    width: 90%;
+    margin: 6px auto;
+    transition: 0.3s;
+ }
+
+ .menu-toggle{
+    order: 1;
+    width: 15%;
+    height: 37px;
+    margin-top: 3%;
+    margin-left: 3px;
+    margin-bottom: 3%;
+    padding: 2px;
+    background-color: #286240;
+    border-radius: 0 11px 0 11px;
+ }
+
+ .links{
+    display: none;
+ }
+
+ .menu-section.on{
+    position: absolute;
+    top: 0;
+    width: 95vw;
+    height: 95vh;
+    border-radius: 15px;
+    z-index:10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #286240;
+ }
+
+ .menu-section.on nav{
+    display: block;
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 600px;
+ }
+
+ .link{
+    text-align: center;
+    font-size: 15px;
+    transition: 0.5s;
+    line-height: 4rem;
+    padding: 0;
+ }
+
+ .link.contato{
+    margin-left: 10px;
+    font-size: 16px;
+ }
+
+ .menu-section.on .menu-toggle{
+    position:absolute;
+    left: 10px;
+    top: 10px;
+ }
+
+ .menu-section.on .menu-toggle .one{
+    transform: rotate(45deg) translate(7px,7px);
+ }
+
+ .menu-section.on .menu-toggle .two{
+    opacity:0;
+ }
+
+ .menu-section.on .menu-toggle .three{
+    transform: rotate(-45deg) translate(8px,-9px);
+ }
+
+ .menu-section.on .logo{
+    display: none;
+ }
+
+ .redes{
+    order: 3;
+    margin-right: 1%;
+    margin-left: 8%;
+    gap: 3%;
+ }
+
+ .insta img{
+    width: 35px;
+    height: 35px;
+}
+
+.whats img{
+ width: 35px;
+ height: 35px;
+
+}
+ 
+    .titulo.sobre{
+        font-size: 18px;
+    }
+
+    .sessao.titulo{
+        font-size: 26px;
+    }
+
+    .sessao.sobre{
+        margin-left: 1px;
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        padding: 0;
+    }
+
+    .img-container{
+        margin-top: 30px;
+    }
+
+    .imagem{
+        margin-left: 3%;
+        margin-top: 13%;
+        width: 370px;
+        height: 370px;
+    }
+
+    .foto{
+        width: 300px;
+        height: 300px;
+        margin-top: 154px;
+        display: block;
+        position: absolute;
+    }
+
+    .sessao.texto{
+      font-size: 14px;
+      width: 380px;
+      gap: 360px;
+    }
+
+    .CTA.section{
+        margin-left: 10px;
+    }
+
+    .call.to.action{
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+    }
+
+    .CTA.text{
+      text-justify: center;
+      font-size: 12px;
+    }
+
+   .CTA.button{
+     margin-top: 3%;
+     margin-left: 25%;
+     font-size: 12px;
+     height: 30px;
+     width: 150px
+    }
+
+    footer{
+        font-size: 10px;
+    }
+
+    .local img{
+        width: 20px;
+        height: 20px; 
+    }
+
+    .ig img{
+        width: 15px;
+        height: 15px; 
+    }
+}
+
